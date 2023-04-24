@@ -1,1 +1,1 @@
-# AI_project
+# AI-Self-Ordering-Poc Instructions
