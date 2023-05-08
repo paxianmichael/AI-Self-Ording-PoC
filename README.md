@@ -1,10 +1,14 @@
 # AI-Self-Ordering-Poc Instructions
+  ## Source:
+    * [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide/)
+  
+  ## Recent Paper:
+    * [Boosting Theory-of-Mind Performance in Large Language Models via Prompting](https://arxiv.org/ftp/arxiv/papers/2304/2304.11490.pdf)
+    
+    * [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
 
-  ## Source<a name="Source"></a>
-    - The Practical Guides for Large Language Models: https://github.com/Mooler0410/LLMsPracticalGuide/
 
-
-  ## Meeting
+  ## Meeting:
     - Upcoming meeting 5/12 4pm EST
       - goal:
         - 1. using burger king dataset to try out different new releasing llm model from google, amazon and ... etc with a short written report to describe the pros and cons of the new releasing
