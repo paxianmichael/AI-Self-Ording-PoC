@@ -1,5 +1,6 @@
 # AI-Self-Ordering-Poc Instructions
   ## Source:
+    [I'm an inline-style link](https://www.google.com)
     * [The Practical Guides for Large Language Models] - https://github.com/Mooler0410/LLMsPracticalGuide/
   
   ## Recent Paper:
