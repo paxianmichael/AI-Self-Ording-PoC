@@ -1,12 +1,11 @@
 # AI-Self-Ordering-Poc Instructions
   ## Source:
-    * [I'm an inline-style link](https://www.google.com)
-    * [The Practical Guides for Large Language Models] - https://github.com/Mooler0410/LLMsPracticalGuide/
+    The Practical Guides for Large Language Models - https://github.com/Mooler0410/LLMsPracticalGuide/
   
   ## Recent Paper:
-    * [Boosting Theory-of-Mind Performance in Large Language Models via Prompting](https://arxiv.org/ftp/arxiv/papers/2304/2304.11490.pdf)
+    Boosting Theory-of-Mind Performance in Large Language Models via Prompting - https://arxiv.org/ftp/arxiv/papers/2304/2304.11490.pdf
     
-    * [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
+    Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond - https://arxiv.org/pdf/2304.13712.pdf
 
 
   ## Meeting:
