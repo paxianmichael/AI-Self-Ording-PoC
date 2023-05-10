@@ -3,9 +3,15 @@
     The Practical Guides for Large Language Models - https://github.com/Mooler0410/LLMsPracticalGuide/
   
   ## Recent Paper:
-    Boosting Theory-of-Mind Performance in Large Language Models via Prompting - https://arxiv.org/ftp/arxiv/papers/2304/2304.11490.pdf
+    # Prompting and ChatGpt:
+      Boosting Theory-of-Mind Performance in Large Language Models via Prompting - https://arxiv.org/ftp/arxiv/papers/2304/2304.11490.pdf
+
+      Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond - https://arxiv.org/pdf/2304.13712.pdf
     
-    Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond - https://arxiv.org/pdf/2304.13712.pdf
+    # Amazon Lex and Alexa:
+      Just ASK: Building an Architecture for Extensible Self-Service Spoken Language Understanding - https://arxiv.org/abs/1711.00549
+      
+      Building a Legal Dialogue System: Development Process, Challenges and Opportunities - https://arxiv.org/abs/2109.00381
 
 
   ## Meeting:
