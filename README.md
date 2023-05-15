@@ -1,14 +1,12 @@
-[test](https://ai.google/static/documents/palm2techreport.pdf)
+
 
 # AI-Self-Ordering-Poc Instructions
   ## Source:
     [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide/)
   
   ## Recent Paper:
-    ### Google:
-      PaLM 2 Technical Report - https://ai.google/static/documents/palm2techreport.pdf
-      
-      [PaLM 2 Technical Repor](https://ai.google/static/documents/palm2techreport.pdf)
+    Google:
+      [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
     
     # Prompting and ChatGpt:
       Boosting Theory-of-Mind Performance in Large Language Models via Prompting - https://arxiv.org/ftp/arxiv/papers/2304/2304.11490.pdf
