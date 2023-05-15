@@ -3,6 +3,8 @@
 # AI-Self-Ordering-Poc Instructions
   ## LLM Source:
    - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide/)
+   
+   - [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/pdf/2305.02301.pdf)
   
   ## Recent Paper
   <strong>Google</strong>:
@@ -22,12 +24,12 @@
 
   ## Meeting:
     - Upcoming meeting 5/12 4pm EST
-      - goal:
+      - <strong>Goal</strong>:
         - 1. using burger king dataset to try out different new releasing llm model from google, amazon and ... etc with a short written report to describe the pros and cons of the new releasing
 
         - 2. build an end-to-end prototype with burger king dataset as an example(try to see if it can order in a natural way)
     
-      - improvements:
+      - <strong>Improvements</strong>:
         - json format output integration
 
         - research download into local amazon lex
