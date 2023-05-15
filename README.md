@@ -24,7 +24,7 @@
 
   ## Weekly Meeting:
   ### Date:5/14/2023
-  #### Goal
+  <strong>Goal</strong>:
   - using burger king dataset to try out different new releasing llm model from google, amazon and ... etc with a short written report to describe the pros and cons of the new releasing
   - build an end-to-end prototype with burger king dataset as an example(try to see if it can order in a natural way)
     
