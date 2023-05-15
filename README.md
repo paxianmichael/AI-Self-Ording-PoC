@@ -6,7 +6,7 @@
   
   ## Recent Paper
   <strong>Google</strong>:
-   [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
+   - [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
     
     # Prompting and ChatGpt:
       Boosting Theory-of-Mind Performance in Large Language Models via Prompting - https://arxiv.org/ftp/arxiv/papers/2304/2304.11490.pdf
