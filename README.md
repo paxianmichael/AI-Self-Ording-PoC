@@ -25,18 +25,18 @@
   ## Meeting:
   Upcoming meeting 5/12 4pm EST:
     <strong>Goal</strong>:
-      - using burger king dataset to try out different new releasing llm model from google, amazon and ... etc with a short written report to describe the pros and cons of the new releasing
+     - using burger king dataset to try out different new releasing llm model from google, amazon and ... etc with a short written report to describe the pros and cons of the new releasing
 
-      - build an end-to-end prototype with burger king dataset as an example(try to see if it can order in a natural way)
+     - build an end-to-end prototype with burger king dataset as an example(try to see if it can order in a natural way)
     
     <strong>Improvements</strong>:
-      - json format output integration
+     - json format output integration
 
-      - research download into local amazon lex
+     - research download into local amazon lex
 
-      - chila-f-la authorized dataset
+     - chila-f-la authorized dataset
 
-      - upload amazon lex info into github
+     - upload amazon lex info into github
 
       
   
