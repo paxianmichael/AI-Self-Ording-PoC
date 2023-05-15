@@ -5,7 +5,7 @@
     [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide/)
   
   ## Recent Paper
-    **Google:
+    ** Google:
    [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
     
     # Prompting and ChatGpt:
