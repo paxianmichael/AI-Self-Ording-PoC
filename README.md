@@ -1,17 +1,17 @@
 
 
 # AI-Self-Ordering-Poc Instructions
-  ## Source:
-    [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide/)
+  ## LLM Source:
+   - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide/)
   
   ## Recent Paper
   <strong>Google</strong>:
    - [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
   
   <strong>Prompting and ChatGpt</strong>:
-   - [Boosting Theory-of-Mind Performance in Large Language Models via Prompting][https://ai.google/static/documents/palm2techreport.pdf]
+   - [Boosting Theory-of-Mind Performance in Large Language Models via Prompting](https://ai.google/static/documents/palm2techreport.pdf)
    
-   - [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond][https://arxiv.org/pdf/2304.13712.pdf]
+   - [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
   
   <strong>Amazon Lex and Alexa</strong>:
    - [Just ASK: Building an Architecture for Extensible Self-Service Spoken Language Understanding](https://ai.google/static/documents/palm2techreport.pdf)
