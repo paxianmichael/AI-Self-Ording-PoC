@@ -1,12 +1,12 @@
 
 
 # AI-Self-Ordering-Poc Instructions
-  ## LLM Source:
+  ## Recent Paper
+  <strong>Large Language Model</strong>:
    - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide/)
-   
+
    - [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/pdf/2305.02301.pdf)
   
-  ## Recent Paper
   <strong>Google</strong>:
    - [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
   
