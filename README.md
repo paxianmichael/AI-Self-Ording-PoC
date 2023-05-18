@@ -1,6 +1,10 @@
 
 
 # AI-Self-Ordering-Poc Instructions
+  ## Source
+  <strong>Chick-fil-A authorized menu</strong>:
+   - [Chick-fil-A menu](https://www.chick-fil-a.com/menu)
+
   ## Recent Paper
   <strong>Large Language Model</strong>:
    - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide/)
