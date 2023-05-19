@@ -1,6 +1,13 @@
 
 
 # AI-Self-Ordering-Poc Instructions
+  ## Large Language Model
+   - OpenAI(ChatGPT)
+   - Goole(Bard)
+   - Microsoft(Bing)
+   - Meta(LLaMA not releasing)
+      - chatbot blenderbot3  
+
   ## Source
   <strong>Chick-fil-A authorized menu</strong>:
    - [Chick-fil-A menu](https://www.chick-fil-a.com/menu)
