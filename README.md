@@ -33,12 +33,9 @@
     
 
 
-  ## Date: 7:30
+  ## Date: 7/30/2023
   ### Goal: submit end-to-end demo
-  <strong>Goal</strong>:
-  - using burger king dataset to try out different new releasing llm model from google, amazon and ... etc with a short written report to describe the pros and cons of the new releasing
-  - build an end-to-end prototype with burger king dataset as an example(try to see if it can order in a natural way)
-    
+  
   <strong>Improvements</strong>:
   - json format output integration
 
