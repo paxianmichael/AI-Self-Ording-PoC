@@ -36,14 +36,23 @@
   ## Date: 7/30/2023
   ### Goal: submit end-to-end demo
   
-  <strong>Improvements</strong>:
-  - json format output integration
+  <strong> Phase 1: 6/26/23023 - 7/10/2023 </strong>:
+  - Audio streaming configuration
 
-  - research download into local amazon lex
+  - Integrating with necessary services
 
-  - chila-f-la authorized dataset
+  - Front-end configuration
 
-  - upload amazon lex info into github
+  - Overall bot structure and logic
+
+  <strong> Phase 2: 7/11/23023 - 7/28/2023 </strong>:
+  - Reviewing bot configuration
+  
+  - Conducting thorough testing(functional testing and usability testing)
+
+  - Refining and improving bot by testing feedback
+
+
 
       
   
