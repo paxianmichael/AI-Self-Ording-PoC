@@ -36,7 +36,7 @@
   ## Date: 7/30/2023
   ### Goal: submit end-to-end demo
   
-  <strong> Phase 1: 6/26/23023 - 7/10/2023 </strong>:
+  <strong> Phase 1: 6/26/23023 - 7/10/2023 </strong>
   - Audio streaming configuration
 
   - Integrating with necessary services
@@ -45,7 +45,7 @@
 
   - Overall bot structure and logic
 
-  <strong> Phase 2: 7/11/23023 - 7/28/2023 </strong>:
+  <strong> Phase 2: 7/11/23023 - 7/28/2023 </strong>
   - Reviewing bot configuration
   
   - Conducting thorough testing(functional testing and usability testing)
