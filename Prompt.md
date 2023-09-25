@@ -1,6 +1,26 @@
 
 ```python
 
+## GPT4 and its key
+MODEL = "gpt-4"
+openai.api_key = "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"
+
+
+
+json_schema = {
+    "message": "assistant's response to the user",
+    "content": [
+        {
+            "item": "order items from user",
+            "quantity": "numbers of item",
+            "price": "corresponding price of item",
+            "customization": "extra requirements from user"
+        }
+    ]
+}
+
+json_schema_str = json.dumps(json_schema)
+
 messages = [
     {"role": "system", "content": "You are a Chick-fil-A artificial intelligence assistant that only speaks JSON. Do not respond in normal text"},
     {"role": "system", "content": f"Responding based on {menu_data}"},
