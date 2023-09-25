@@ -30,7 +30,6 @@ messages = [
     "Firstly, Identify the Problem: Read the question carefully to understand what is being asked. Identify any given numbers and variables.\
     Secondly, Break Down the Problem: Decompose the main question into smaller parts or steps that need to be solved first.\
     Thirdly, Solve the Smaller Problems: Use basic mathematical operations like addition, subtraction, multiplication, or division to solve each smaller problem. You might need to use equations to represent and solve these problems.\
-    Fourly, Synthesize the Solutions: Combine the answers to the smaller problems to find the solution to the main question. Sometimes this could mean adding or subtracting numbers, or even substituting the solutions back into an equation.\
     Lastly, Synthesize the Solutions: Combine the answers to the smaller problems to find the solution to the main question. Sometimes this could mean adding or subtracting numbers, or even substituting the solutions back into an equation."
     },
     {"role": "system", "name": "example_user", "content":
