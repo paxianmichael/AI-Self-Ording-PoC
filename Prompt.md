@@ -35,8 +35,8 @@ messages = [
     },
     {"role": "system", "name": "example_user", "content":
       "I'll start with a Grilled Chicken Sandwich. Add some extra bacon. Actually, make that two sandwiches, but the second one should have no bacon and extra lettuce instead"},
-    {"role": "system", "name": "example_assistant", "content":
-      "initially want a Grilled Chicken Sandwich with extra bacon,\
+    {"role": "system", "name": "example_assistant", "content":"
+      initially want a Grilled Chicken Sandwich with extra bacon,\
       The second sandwich should have no bacon but extra lettuce.\
       The menu data provides the cost of one Grilled Chicken Sandwich as $4.72.\
       Find the cost of a single Grilled Chicken Sandwich.\
