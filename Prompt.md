@@ -8,15 +8,16 @@ openai.api_key = "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"
 
 
 json_schema = {
-    "message": "assistant's response to the user",
-    "content": [
-        {
-            "item": "order items from user",
-            "quantity": "numbers of item",
-            "price": "corresponding price of item",
-            "customization": "extra requirements from user"
-        }
-    ]
+  "message": "Your order has been added to the cart.",
+  "cart": [
+    {
+      "name": "The name of the ordered item",
+      "quantity": "The number of items ordered.",
+      "price": "The price of a single item",
+      "notes": "Specifics about how the item should be prepared."
+    }],
+  "show": "A string representing what kind of data to display, in this case",
+  "is_final": "A boolean indicating whether the conversation is concluded, set to false in this case as the order may continue."
 }
 
 json_schema_str = json.dumps(json_schema)
@@ -35,7 +36,7 @@ messages = [
     {"role": "system", "name": "example_user", "content":
       "I'll start with a Grilled Chicken Sandwich. Add some extra bacon. Actually, make that two sandwiches, but the second one should have no bacon and extra lettuce instead"},
     {"role": "system", "name": "example_assistant", "content":
-      initially want a Grilled Chicken Sandwich with extra bacon,\
+      "initially want a Grilled Chicken Sandwich with extra bacon,\
       The second sandwich should have no bacon but extra lettuce.\
       The menu data provides the cost of one Grilled Chicken Sandwich as $4.72.\
       Find the cost of a single Grilled Chicken Sandwich.\
@@ -45,7 +46,6 @@ messages = [
       The cost for 2 Grilled Chicken Sandwiches would be 2*4.72 = 9.44\
       The total cost for 2 Grilled Chicken Sandwiches is $9.44 and One of these sandwiches is to have extra bacon,The other sandwich is to have no bacon but extra lettuce."}
 ]
-
 
 
 ```
